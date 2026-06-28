@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Connecticut Urban Agriculture Portal
 
 A Vite React + React Leaflet web app for exploring Connecticut community gardens and urban agriculture sites.
@@ -31,3 +32,6 @@ Option B: use the included deploy script after adding the GitHub remote:
 ```bash
 npm run deploy
 ```
+=======
+# ct-urban-agriculture-portal
+>>>>>>> 996271a1f023a0c5c42c1341529dcd184d816bc5

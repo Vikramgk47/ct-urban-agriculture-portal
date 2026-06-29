@@ -7,14 +7,14 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "vite": "latest",
+    "leaflet": "latest",
+    "papaparse": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "leaflet": "latest",
     "react-leaflet": "latest",
-    "papaparse": "latest"
+    "vite": "latest"
   },
   "devDependencies": {
-    "gh-pages": "latest"
+    "gh-pages": "^6.3.0"
   }
 }

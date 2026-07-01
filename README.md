@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Connecticut Urban Agriculture Portal
 
 A Vite React + React Leaflet web app for exploring Connecticut community gardens and urban agriculture sites.
